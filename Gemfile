@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in jekyll-wikirefs.gemspec
 gemspec
 
-gem 'jekyll', '~> 4.2.0'
+gem 'jekyll', '~> 4.3.0'
 
 gem 'nokogiri', '~> 1.13.3'
 
